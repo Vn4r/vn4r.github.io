@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /* This CSS File was created by www.pixelateddesign.co.uk */
 /* This is free if you have purchased this templete please contact us useign the email */
 /* info@pixelateddesign.co.uk along with the amount you payed for your website */
@@ -21,6 +21,17 @@ body {
 	height: 750px;
 	background-attachment: scroll;
 	background-image: url(../images/Untitled-4.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+#content_container1 {
+	margin-left:auto;
+	margin-right:auto;
+	width:900px;
+	height: 750px;
+	background-attachment: scroll;
+	background-image: url(../images/Untitled.png);
 	background-repeat: no-repeat;
 	background-position: right center;
 }
